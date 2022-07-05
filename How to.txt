@@ -1,0 +1,58 @@
+Make sure existing are stopped and removed.
+
+Creating the same networkd for the docker containers
+docker network create pg-network
+
+Start pg-database in docker #### this is the first container
+winpty docker run -it \
+  -e POSTGRES_USER="root" \
+  -e POSTGRES_PASSWORD="root" \
+  -e POSTGRES_DB="ny_taxi"\
+  -v //c/Users/x-Black/Documents/Learning/DataEngineering/pg_data:/var/lib/postgresql/data \
+  -p 5432:5432 \
+ --network=pg-network \
+ --name pg-database \
+  postgres:13
+  
+Start the pgAdmin server   #### this is the second container
+winpty docker run -it \
+    -e PGADMIN_DEFAULT_EMAIL="admin@admin.com" \
+    -e PGADMIN_DEFAULT_PASSWORD="root" \
+    -p 8080:80 \
+    --network=pg-network \
+    --name pgadmin \
+    dpage/pgadmin4
+
+Go to localhost:8080
+
+Add the new connection
+
+Then DROP TABLE yellow_taxi_data;
+
+Ingesting data back to yellow_taxi_trips
+python3.10 ingest_data.py \
+    --user=root \
+    --password=root \
+    --host=localhost \
+    --port=5432 \
+    --db=ny_taxi \
+    --table_name=yellow_taxi_trips \
+    --url="https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2021-01.csv"
+
+Dockerizing the script
+winpty docker build -t taxi_ingest:v001
+
+Running it 
+winpty docker run -it \
+    --network=pg-network \
+    taxi_ingest:v001 \
+    --user=root \
+    --password=root \
+    --host=pg-database \
+    --port=5432 \
+    --db=ny_taxi \
+    --table_name=yellow_taxi_trips \
+    --url="C:\Users\T14\Documents\GitHub\WebScraper\Country.csv"
+
+To run both 	pg-database & pgAdmin in one script
+winpty docker-compose up

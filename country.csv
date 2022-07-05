@@ -1,200 +1,200 @@
 ,country,passportrank,viasfreetravel,visaonarrival,visarequired
-0,United Arab Emirates,168,115,53,30
-1,Germany,164,120,44,34
-2,Sweden,164,119,45,34
-3,Finland,164,119,45,34
-4,Spain,164,119,45,34
-5,France,164,119,45,34
-6,Italy,164,119,45,34
-7,Netherlands,164,118,46,34
-8,Austria,164,118,46,34
-9,Luxembourg,164,118,46,34
-10,South Korea,164,114,50,34
-11,Denmark,163,118,45,35
-12,Belgium,163,117,46,35
-13,Portugal,163,117,46,35
-14,Switzerland,163,115,48,35
-15,Japan,163,115,48,35
-16,Poland,163,115,48,35
-17,Ireland,163,112,51,35
-18,United States of America,163,111,52,35
-19,Norway,162,116,46,36
-20,Malta,162,116,46,36
-21,Czech Republic,162,115,47,36
-22,Greece,162,115,47,36
-23,Hungary,162,114,48,36
-24,United Kingdom,162,113,49,36
-25,New Zealand,162,108,54,36
-26,Australia,162,106,56,36
-27,Singapore,161,125,36,37
-28,Lithuania,161,114,47,37
-29,Canada,161,111,50,37
-30,Estonia,160,113,47,38
-31,Latvia,160,113,47,38
-32,Slovenia,160,112,48,38
-33,Slovakia,160,112,48,38
-34,Iceland,158,113,45,40
-35,Cyprus,158,113,45,40
-36,Liechtenstein,158,112,46,40
-37,Croatia,158,111,47,40
-38,Romania,158,109,49,40
-39,Bulgaria,157,107,50,41
-40,Malaysia,155,113,42,43
-41,Brazil,154,107,47,44
-42,Monaco,153,106,47,45
-43,Argentina,152,105,47,46
-44,Chile,150,104,46,48
-45,Hong Kong,149,109,40,49
-46,San Marino,146,102,44,52
-47,Andorra,146,96,50,52
-48,Mexico,145,95,50,53
-49,Barbados,143,107,36,55
-50,Brunei,142,97,45,56
-51,Israel,140,100,40,58
-52,Uruguay,140,94,46,58
-53,Bahamas,138,101,37,60
-54,Vatican City,137,93,44,61
-55,Ukraine,136,89,47,62
-56,Peru,136,87,49,62
-57,Seychelles,135,100,35,63
-58,Costa Rica,135,92,43,63
-59,Saint Kitts and Nevis,134,100,34,64
-60,Antigua and Barbuda,134,97,37,64
-61,Trinidad and Tobago,132,97,35,66
-62,St. Vincent and the Grenadines,131,96,35,67
-63,Macao,131,88,43,67
-64,Paraguay,131,85,46,67
-65,Serbia,130,83,47,68
-66,Panama,128,85,43,70
-67,Colombia,128,83,45,70
-68,Mauritius,127,94,33,71
-69,Grenada,127,91,36,71
-70,Saint Lucia,127,91,36,71
-71,Taiwan,127,77,50,71
-72,Vanuatu,124,82,42,74
-73,Dominica,123,86,37,75
-74,Venezuela,123,74,49,75
-75,Solomon Islands,122,82,40,76
-76,El Salvador,121,79,42,77
-77,North Macedonia,121,75,46,77
-78,Montenegro,121,73,48,77
-79,Samoa,120,78,42,78
-80,Honduras,120,78,42,78
-81,Georgia,120,73,47,78
-82,Tuvalu,118,80,38,80
-83,Tonga,118,78,40,80
-84,Guatemala,118,76,42,80
-85,Moldova,117,72,45,81
-86,Russian Federation,116,75,41,82
-87,Nicaragua,116,72,44,82
-88,Kiribati,115,75,40,83
-89,Marshall Islands,114,70,44,84
-90,Bosnia and Herzegovina,113,70,43,85
-91,Turkey,113,68,45,85
-92,Albania,111,67,44,87
-93,Micronesia,109,64,45,89
-94,Palau,108,62,46,90
-95,Qatar,104,62,42,94
-96,South Africa,99,59,40,99
-97,Timor-Leste,96,53,43,102
-98,Kuwait,94,52,42,104
-99,Ecuador,94,47,47,104
-100,Belize,90,56,34,108
-101,Jamaica,90,53,37,108
-102,Bahrain,89,46,43,109
-103,Fiji,88,46,42,110
-104,Maldives,87,47,40,111
-105,Oman,86,41,45,112
-106,Guyana,85,43,42,113
-107,Belarus,85,41,44,113
-108,Saudi Arabia,84,41,43,114
-109,Kazakhstan,84,36,48,114
-110,Thailand,84,35,49,114
-111,Botswana,80,47,33,118
-112,Nauru,80,38,42,118
-113,Bolivia,80,35,45,118
-114,Indonesia,79,37,42,119
-115,Suriname,79,34,45,119
-116,Lesotho,77,42,35,121
-117,China,77,28,49,121
-118,Tunisia,76,35,41,122
-119,Papua New Guinea,76,34,42,122
-120,Azerbaijan,75,32,43,123
-121,Armenia,74,31,43,124
-122,Dominican Republic,74,29,45,124
-123,Eswatini,73,41,32,125
-124,Malawi,73,39,34,125
-125,Cuba,73,31,42,125
-126,Namibia,72,38,34,126
-127,Zambia,71,37,34,127
-128,Morocco,70,30,40,128
-129,Philippines,69,30,39,129
-130,Mongolia,69,27,42,129
-131,Gambia,68,40,28,130
-132,Tanzania,68,39,29,130
-133,Kenya,68,35,33,130
-134,Cape Verde,68,32,36,130
-135,Ghana,67,36,31,131
-136,Uzbekistan,67,25,42,131
-137,Kyrgyzstan,67,25,42,131
-138,Sao Tome and Principe,67,23,44,131
-139,India,66,20,46,132
-140,Sierra Leone,64,37,27,134
-141,Zimbabwe,64,34,30,134
-142,Uganda,64,31,33,134
-143,Senegal,64,30,34,134
-144,Rwanda,64,27,37,134
-145,Tajikistan,64,24,40,134
-146,Benin,63,28,35,135
-147,Burkina Faso,63,28,35,135
-148,Bhutan,62,15,47,136
-149,Cote d'Ivoire (Ivory Coast),61,25,36,137
-150,Mozambique,61,24,37,137
-151,Madagascar,61,23,38,137
-152,Gabon,61,21,40,137
-153,Jordan,61,20,41,137
-154,Viet Nam,61,18,43,137
-155,Cambodia,61,16,45,137
-156,Mauritania,60,24,36,138
-157,Niger,59,27,32,139
-158,Guinea,59,25,34,139
-159,Togo,59,23,36,139
-160,Algeria,59,17,42,139
-161,Turkmenistan,59,15,44,139
-162,Guinea-Bissau,58,24,34,140
-163,Equatorial Guinea,58,17,41,140
-164,Angola,57,23,34,141
-165,Laos,57,17,40,141
-166,Comoros,57,16,41,141
-167,Haiti,57,15,42,141
-168,Mali,56,26,30,142
-169,Chad,56,20,36,142
-170,Egypt,56,15,41,142
-171,Liberia,55,23,32,143
-172,Burundi,54,18,36,144
-173,Cameroon,54,16,38,144
-174,Central African Republic,54,16,38,144
-175,Djibouti,54,13,41,144
-176,Lebanon,52,13,39,146
-177,Myanmar [Burma],52,11,41,146
-178,Kosovo,51,14,37,147
-179,Nigeria,50,20,30,148
-180,Congo (Dem. Rep.),49,14,35,149
-181,Congo,49,13,36,149
-182,Iran,49,11,38,149
-183,South Sudan,48,15,33,150
-184,Sri Lanka,48,13,35,150
-185,Libya,48,12,36,150
-186,Nepal,48,11,37,150
-187,Ethiopia,48,11,37,150
-188,Sudan,48,10,38,150
-189,Bangladesh,47,15,32,151
-190,Eritrea,47,10,37,151
-191,North Korea,46,8,38,152
-192,Palestinian Territories,45,11,34,153
-193,Yemen,42,9,33,156
-194,Pakistan,41,6,35,157
-195,Somalia,40,9,31,158
+0,United Arab Emirates,170,115,55,28
+1,Germany,167,121,46,31
+2,Sweden,167,120,47,31
+3,Finland,167,120,47,31
+4,Luxembourg,167,120,47,31
+5,Spain,167,120,47,31
+6,France,167,120,47,31
+7,Italy,167,120,47,31
+8,Netherlands,167,119,48,31
+9,Austria,167,119,48,31
+10,South Korea,167,116,51,31
+11,Denmark,166,119,47,32
+12,Belgium,166,118,48,32
+13,Portugal,166,118,48,32
+14,Switzerland,166,117,49,32
+15,Poland,166,116,50,32
+16,Ireland,166,113,53,32
+17,United States of America,166,112,54,32
+18,New Zealand,166,110,56,32
+19,Norway,165,117,48,33
+20,Malta,165,117,48,33
+21,Japan,165,116,49,33
+22,Czech Republic,165,116,49,33
+23,Greece,165,116,49,33
+24,Hungary,165,115,50,33
+25,United Kingdom,165,114,51,33
+26,Australia,165,107,58,33
+27,Singapore,164,127,37,34
+28,Lithuania,164,115,49,34
+29,Slovakia,164,113,51,34
+30,Canada,164,112,52,34
+31,Estonia,163,114,49,35
+32,Latvia,163,114,49,35
+33,Slovenia,163,113,50,35
+34,Iceland,161,114,47,37
+35,Cyprus,161,114,47,37
+36,Liechtenstein,161,113,48,37
+37,Croatia,161,112,49,37
+38,Romania,161,110,51,37
+39,Bulgaria,160,107,53,38
+40,Malaysia,158,116,42,40
+41,Brazil,156,108,48,42
+42,Monaco,156,107,49,42
+43,Argentina,155,106,49,43
+44,Chile,153,105,48,45
+45,Hong Kong,151,110,41,47
+46,San Marino,149,103,46,49
+47,Andorra,149,97,52,49
+48,Mexico,147,96,51,51
+49,Barbados,145,108,37,53
+50,Brunei,145,100,45,53
+51,Uruguay,143,95,48,55
+52,Israel,142,101,41,56
+53,Bahamas,141,102,39,57
+54,Peru,141,88,53,57
+55,Vatican City,139,93,46,59
+56,Ukraine,139,89,50,59
+57,Costa Rica,138,93,45,60
+58,Seychelles,136,100,36,62
+59,Antigua and Barbuda,136,97,39,62
+60,Saint Kitts and Nevis,135,100,35,63
+61,St. Vincent and the Grenadines,135,98,37,63
+62,Trinidad and Tobago,134,97,37,64
+63,Serbia,134,84,50,64
+64,Macao,133,89,44,65
+65,Paraguay,133,85,48,65
+66,Panama,131,86,45,67
+67,Mauritius,130,95,35,68
+68,Colombia,130,83,47,68
+69,Taiwan,130,78,52,68
+70,Grenada,129,92,37,69
+71,Saint Lucia,129,91,38,69
+72,Vanuatu,126,82,44,72
+73,Dominica,125,86,39,73
+74,North Macedonia,125,76,49,73
+75,Solomon Islands,124,82,42,74
+76,Venezuela,124,73,51,74
+77,El Salvador,123,79,44,75
+78,Honduras,123,79,44,75
+79,Montenegro,123,73,50,75
+80,Guatemala,122,77,45,76
+81,Georgia,122,73,49,76
+82,Samoa,121,78,43,77
+83,Tuvalu,120,80,40,78
+84,Russian Federation,119,76,43,79
+85,Moldova,119,72,47,79
+86,Tonga,118,78,40,80
+87,Nicaragua,118,72,46,80
+88,Kiribati,117,75,42,81
+89,Turkey,117,70,47,81
+90,Bosnia and Herzegovina,116,70,46,82
+91,Marshall Islands,116,70,46,82
+92,Albania,113,67,46,85
+93,Micronesia,111,64,47,87
+94,Palau,110,62,48,88
+95,Qatar,106,62,44,92
+96,South Africa,101,59,42,97
+97,Kuwait,98,53,45,100
+98,Timor-Leste,98,53,45,100
+99,Ecuador,97,48,49,101
+100,Bahrain,93,47,46,105
+101,Belize,91,56,35,107
+102,Jamaica,91,53,38,107
+103,Fiji,89,46,43,109
+104,Saudi Arabia,89,44,45,109
+105,Oman,89,41,48,109
+106,Maldives,88,47,41,110
+107,Belarus,88,41,47,110
+108,Guyana,87,43,44,111
+109,Thailand,86,37,49,112
+110,Kazakhstan,86,36,50,112
+111,Indonesia,82,40,42,116
+112,Bolivia,82,35,47,116
+113,Botswana,81,47,34,117
+114,Nauru,81,38,43,117
+115,Suriname,81,35,46,117
+116,China,80,28,52,118
+117,Tunisia,79,36,43,119
+118,Lesotho,78,43,35,120
+119,Papua New Guinea,77,34,43,121
+120,Azerbaijan,77,32,45,121
+121,Dominican Republic,77,30,47,121
+122,Armenia,76,31,45,122
+123,Cuba,75,31,44,123
+124,Eswatini,74,41,33,124
+125,Malawi,74,39,35,124
+126,Namibia,74,38,36,124
+127,Morocco,72,30,42,126
+128,Zambia,71,37,34,127
+129,Mongolia,71,28,43,127
+130,Cape Verde,70,32,38,128
+131,Philippines,70,31,39,128
+132,Gambia,69,40,29,129
+133,Tanzania,69,39,30,129
+134,Kenya,69,35,34,129
+135,Kyrgyzstan,69,25,44,129
+136,Sao Tome and Principe,69,23,46,129
+137,Uzbekistan,68,25,43,130
+138,India,68,20,48,130
+139,Ghana,67,36,31,131
+140,Uganda,66,31,35,132
+141,Rwanda,66,27,39,132
+142,Tajikistan,66,24,42,132
+143,Zimbabwe,65,34,31,133
+144,Senegal,65,30,35,133
+145,Benin,65,28,37,133
+146,Sierra Leone,64,37,27,134
+147,Burkina Faso,64,28,36,134
+148,Madagascar,63,23,40,135
+149,Jordan,63,20,43,135
+150,Viet Nam,63,19,44,135
+151,Cambodia,63,17,46,135
+152,Bhutan,63,15,48,135
+153,Cote d'Ivoire (Ivory Coast),62,25,37,136
+154,Mauritania,62,24,38,136
+155,Mozambique,62,24,38,136
+156,Gabon,62,21,41,136
+157,Togo,61,23,38,137
+158,Turkmenistan,61,15,46,137
+159,Niger,60,27,33,138
+160,Guinea,60,25,35,138
+161,Equatorial Guinea,60,17,43,138
+162,Angola,59,23,36,139
+163,Algeria,59,17,42,139
+164,Comoros,59,16,43,139
+165,Haiti,59,15,44,139
+166,Mali,58,26,32,140
+167,Guinea-Bissau,58,24,34,140
+168,Chad,58,20,38,140
+169,Laos,58,17,41,140
+170,Egypt,58,15,43,140
+171,Liberia,56,23,33,142
+172,Central African Republic,56,16,40,142
+173,Djibouti,56,13,43,142
+174,Burundi,55,18,37,143
+175,Cameroon,55,16,39,143
+176,Kosovo,53,14,39,145
+177,Lebanon,53,13,40,145
+178,Myanmar [Burma],53,12,41,145
+179,Congo,51,14,37,147
+180,Nepal,51,11,40,147
+181,Nigeria,50,20,30,148
+182,South Sudan,50,16,34,148
+183,Congo (Dem. Rep.),50,14,36,148
+184,Sri Lanka,50,13,37,148
+185,Ethiopia,50,11,39,148
+186,Sudan,50,10,40,148
+187,Iran,49,11,38,149
+188,Eritrea,49,10,39,149
+189,Libya,48,12,36,150
+190,North Korea,48,8,40,150
+191,Bangladesh,47,15,32,151
+192,Palestinian Territories,47,11,36,151
+193,Yemen,43,9,34,155
+194,Somalia,42,9,33,156
+195,Pakistan,41,6,35,157
 196,Iraq,37,6,31,161
 197,Syria,37,6,31,161
-198,Afghanistan,35,4,31,163
+198,Afghanistan,36,4,32,162

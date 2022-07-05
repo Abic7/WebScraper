@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#https://thedatasoup.com/data-ingestion-running-a-pipeline-with-python-postgres-and-pgadmin-using-docker/
 """
 Importing library's'
 """
